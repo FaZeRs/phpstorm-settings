@@ -1,4 +1,5 @@
 <code_scheme name="Spatie" version="173">
+  <option name="RIGHT_MARGIN" value="190" />
   <option name="SOFT_MARGINS" value="80" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
@@ -43,12 +44,6 @@
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="SQL">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
