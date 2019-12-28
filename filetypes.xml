@@ -7,17 +7,18 @@
       <mapping pattern="SendMailReactor" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DeleteTeamAction" type="PLAIN_TEXT" />
+      <mapping pattern="create_webhook_calls_table" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="using-projectors-to-transform-events" type="PLAIN_TEXT" />
       <mapping pattern="what-are-aggregates" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="projectChooser" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern="HasNotificationDestinations" type="PLAIN_TEXT" />
-      <mapping pattern="DeleteNotificationDestinationController" type="PLAIN_TEXT" />
       <mapping pattern="companyWaitingForApproval" type="PLAIN_TEXT" />
       <mapping pattern="UserAddedToProjectEvent" type="PLAIN_TEXT" />
-      <mapping pattern="create_webhook_calls_table" type="PLAIN_TEXT" />
+      <mapping pattern="DeleteNotificationDestinationController" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Reviewable" type="PLAIN_TEXT" />
       <mapping pattern="ShowImpersonationFormController" type="PLAIN_TEXT" />
