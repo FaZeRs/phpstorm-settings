@@ -13,6 +13,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="UserAddedToProjectEvent" type="PLAIN_TEXT" />
       <mapping pattern="mail" type="PLAIN_TEXT" />
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping pattern=".styleci" type="PLAIN_TEXT" />
       <mapping pattern="ShowImpersonationFormController" type="PLAIN_TEXT" />
       <mapping pattern=".env.travis.example" type="PLAIN_TEXT" />
@@ -22,7 +23,6 @@
       <mapping pattern="DeleteTeamAction" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="what-are-aggregates" type="PLAIN_TEXT" />
-      <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
