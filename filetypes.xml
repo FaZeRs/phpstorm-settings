@@ -1,37 +1,38 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping pattern=".env" type=".env file" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping pattern=".env.travis.example" type="PLAIN_TEXT" />
-      <mapping pattern="dummy" type="PLAIN_TEXT" />
-      <mapping pattern="SendMailReactor" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="DeleteTeamAction" type="PLAIN_TEXT" />
-      <mapping pattern="create_webhook_calls_table" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="using-projectors-to-transform-events" type="PLAIN_TEXT" />
-      <mapping pattern="what-are-aggregates" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
-      <mapping pattern="projectChooser" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
-      <mapping pattern="HasNotificationDestinations" type="PLAIN_TEXT" />
-      <mapping pattern="companyWaitingForApproval" type="PLAIN_TEXT" />
-      <mapping pattern="UserAddedToProjectEvent" type="PLAIN_TEXT" />
       <mapping pattern="DeleteNotificationDestinationController" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="HasNotificationDestinations" type="PLAIN_TEXT" />
       <mapping pattern="Reviewable" type="PLAIN_TEXT" />
-      <mapping pattern="ShowImpersonationFormController" type="PLAIN_TEXT" />
-      <mapping pattern=".styleci" type="PLAIN_TEXT" />
-      <mapping pattern="mail" type="PLAIN_TEXT" />
-      <mapping pattern="UpdateProjectNotificationPreferenceRequest" type="PLAIN_TEXT" />
       <mapping pattern="ReviewableWasAlreadyReviewed" type="PLAIN_TEXT" />
+      <mapping pattern="companyWaitingForApproval" type="PLAIN_TEXT" />
+      <mapping pattern="using-projectors-to-transform-events" type="PLAIN_TEXT" />
+      <mapping pattern="projectChooser" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="UserAddedToProjectEvent" type="PLAIN_TEXT" />
+      <mapping pattern="mail" type="PLAIN_TEXT" />
+      <mapping pattern=".styleci" type="PLAIN_TEXT" />
+      <mapping pattern="ShowImpersonationFormController" type="PLAIN_TEXT" />
+      <mapping pattern=".env.travis.example" type="PLAIN_TEXT" />
+      <mapping pattern="create_webhook_calls_table" type="PLAIN_TEXT" />
+      <mapping pattern="UpdateProjectNotificationPreferenceRequest" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern="SendMailReactor" type="PLAIN_TEXT" />
+      <mapping pattern="DeleteTeamAction" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="what-are-aggregates" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
-      <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="qsdfqsdf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="components" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -56,6 +57,7 @@
       <removed_mapping pattern="BalieAuth" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping pattern="UserResource" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" type=".env file" />
       <removed_mapping pattern="PathGenerator.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".php_cs" approved="true" type="PLAIN_TEXT" />
