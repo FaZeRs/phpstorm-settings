@@ -1,0 +1,11 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ab47bc" />
+    <option name="selectedTheme" value="PALENIGHT" />
+    <option name="userId" value="-44f0599e:173cfbffeb6:-8000" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>
