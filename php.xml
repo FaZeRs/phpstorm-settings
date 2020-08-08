@@ -10,7 +10,7 @@
       <interpreter id="dedc5399-4920-4faf-8305-8457b5fa7b0b" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.13/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="26ceb35e-8b9a-48f8-a689-05e57759a027" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.1/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="788b7e8c-bd2a-4262-a060-d78608c1ab20" name="Servodock PHP" home="docker://DATA" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="servodock_php-fpm:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="servodock_php-fpm:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
       </interpreter>
     </interpreters>
   </component>
@@ -73,7 +73,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="788b7e8c-bd2a-4262-a060-d78608c1ab20" configuration_file_path="/opt/project/phpunit.xml" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="788b7e8c-bd2a-4262-a060-d78608c1ab20" configuration_file_path="/var/www/naurislinde.com/phpunit.xml" custom_loader_path="/var/www/naurislinde.com/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
