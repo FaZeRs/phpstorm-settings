@@ -1,7 +1,7 @@
 <application>
   <component name="PhpCSFixer">
     <phpcsfixer_settings>
-      <phpcs_fixer_by_interpreter interpreter_id="788b7e8c-bd2a-4262-a060-d78608c1ab20" tool_path="/root/.composer/vendor/bin/php-cs-fixer" />
+      <phpcs_fixer_by_interpreter interpreter_id="788b7e8c-bd2a-4262-a060-d78608c1ab20" tool_path="/var/www/naurislinde.com/vendor/bin/php-cs-fixer" />
     </phpcsfixer_settings>
   </component>
   <component name="PhpInterpreters">
